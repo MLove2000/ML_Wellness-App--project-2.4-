@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="197.156" height="248.601" viewBox="0 0 197.156 248.601">
+  <g id="Group_66" data-name="Group 66" transform="translate(-100.847 -69.599)">
+    <text id="I_Am" data-name="I Am" transform="translate(142.816 222.2)" fill="#3b0062" font-size="60" font-family="Noteworthy-Light, Noteworthy" font-weight="300"><tspan x="-52.5" y="77">I Am</tspan></text>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(145.307 69.599)" fill="none" stroke="#fffdfd" stroke-linecap="round" stroke-width="12">
+      <ellipse cx="49.663" cy="43.15" rx="49.663" ry="43.15" stroke="none"/>
+      <ellipse cx="49.663" cy="43.15" rx="43.663" ry="37.15" fill="none"/>
+    </g>
+    <path id="Path_3" data-name="Path 3" d="M80.954,14.575s39.491,7.257,31.769,47.454S36.5,37.311,36.5,37.311L0,0" transform="matrix(0.985, -0.174, 0.174, 0.985, 165.952, 163.786)" fill="none" stroke="#fffdfd" stroke-linecap="round" stroke-width="12"/>
+    <path id="Path_4" data-name="Path 4" d="M38.711,14.575S-7.94,21.832,1.183,62.029,91.224,37.311,91.224,37.311L134.342,0" transform="translate(107.5 155.413) rotate(-4)" fill="none" stroke="#fffdfd" stroke-linecap="round" stroke-width="12"/>
+  </g>
+</svg>

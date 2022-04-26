@@ -1,0 +1,150 @@
+* {
+  box-sizing: border-box;
+  background-color: #CFB9DE;
+  align-self:center;
+
+}
+
+
+h1, h2 {
+    color: #fff;
+     font-family: 'Noteworthy', sans-serif;
+}
+p {
+    color: #747171;
+     font-family: 'Karla', sans-serif;
+}
+
+.logo {
+    font-family: 'Noteworthy', sans-serif;
+    
+}
+.logo p {
+    font-family: 'Karla', sans-serif;
+    color: #3B0062;
+}
+
+h3 {
+  color: #3B0062;
+}
+
+.image {
+    padding: 5em;
+    text-align: center;
+
+}
+
+
+.html, body {
+  margin: 0;
+  body: 0;
+  width: 100%;
+}
+
+.img {
+    self-align: center;
+    padding: 2 em;
+}
+
+.content {
+  width: 90%;
+  margin: 2em auto;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: justify;
+}
+
+.logo {
+  position: fixed;
+  float: left;
+  margin: 16px 36px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.menu {
+    font-family: 'Karla', sans-serif;
+
+}
+
+nav {
+  position: fixed;
+  width: 100%;
+}
+
+nav ul {
+  list-style: none;
+  background: rgba(0,0,0,0);
+  overflow: hidden;
+  color: #fff;
+  padding: 0;
+  text-align: center;
+  margin: 0;
+  transition: 1s;
+}
+
+nav.black ul {
+  background: #000;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+}
+
+/*Menu icon CSS*/
+.menu-icon {
+  width: 100%;
+  background: #000;
+  text-align: right;
+  box-sizing: border-box;
+  padding: 15px 24px;
+  cursor: pointer;
+  color: #fff;
+  display: none;
+}
+
+a:hover {
+  color: #3B0062;
+  
+}
+
+/*Responsive design CSS*/
+@media(max-width: 580px) {
+  .logo {
+    position: fixed;
+    top: 0;
+    margin-top: 16px;
+  }
+  
+  nav ul {
+    max-height: 0px;
+    background: #000;
+  }
+  
+  nav.black ul {
+    background: #000;
+  }
+  
+  .showing {
+    max-height: 20em;
+  }
+
+  nav ul li {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 24px 0px;
+    text-align: center;
+  }
+  
+  .menu-icon {
+    display: block;
+  }
+}
